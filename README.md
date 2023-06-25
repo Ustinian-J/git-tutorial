@@ -45,5 +45,14 @@ git diff
 git diff HEAD
 ```
 
+### 6. 分支操作
 
+```
+# 显示分支列表
+git branch
+# 创建、切换分支
+git checkout -b xxxx
+```
+
+### 7. 
 
